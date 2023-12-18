@@ -1,0 +1,9 @@
+.edit{
+    color: blueviolet !important;
+}
+
+.delete{
+    color: red !important;
+    margin-left: -5% !important;
+    position: absolute;
+}
